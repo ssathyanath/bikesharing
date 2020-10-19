@@ -5,7 +5,7 @@
 The purpose of this project is to analyse the ride share data from New York city for August 2019. The analysis is performed using tableau to gain useful insights into the ride share business.
 
 The results can be found in the below link
-![Tableau_Link](https://public.tableau.com/profile/savitha.sathyanathan#!/vizhome/NewYorkCityBikeRideAnalysis/BikeRideAnalysis)
+[Tableau_Link](https://public.tableau.com/views/NewYorkCityBikeRideAnalysis/BikeRideAnalysis?:language=en&:display_count=y&:origin=viz_share_link)
 
 ## Results
 
